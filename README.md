@@ -1,2 +1,2 @@
-# csharp-list05
-Lista 05 de Exercícios em C#
+# Lista 05 de Desafios (C#)
+5° Lista de exercícios, com 5 desafios.
